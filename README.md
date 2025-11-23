@@ -135,6 +135,26 @@ def handler(event, context):
     return {"statusCode": 200, "body": json.dumps(risk)}
 ```
 
+## 🔗 Links Required for Submission
 
+- **GitHub Code:**  
+    (your repo link)
+    
+- **Demo Video:**  
+    (YouTube / Drive link)
+    
+
+---
+
+## 🏁 Final Notes
+
+This prototype demonstrates:  
+✔ System Design  
+✔ Architecture Thinking  
+✔ AWS Knowledge  
+✔ Security & Compliance  
+✔ ML-Driven KYC Understanding
+
+This is exactly what judges look for—**not full running product**, only **concept working code + architecture**.
 
 
